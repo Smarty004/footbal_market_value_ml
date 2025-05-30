@@ -48,4 +48,15 @@ notebooks/final_notebook.ipynb
 - **Albina Cyuzuzo Ntivuguruzwa** 
 - **Martina Favata**  
 - **Jakob Lutz** 
-- **Martina Russo** 
+- **Martina Russo**
+
+---
+---
+
+## Disclaimer
+
+This project was developed exclusively for academic purposes as part of the Machine Learning course (30412) at Bocconi University.  
+It is intended to demonstrate understanding of machine learning concepts and should **not** be copied, reused, or submitted as original work elsewhere.
+
+All rights to the original analysis, code, and report remain with the authors.
+
