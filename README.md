@@ -1,2 +1,1 @@
-# footbal_market_value_ml
-Predicting football player market value with ML (LightGBM, SHAP, Optuna)
+[README.md](https://github.com/user-attachments/files/20526699/README.md)
